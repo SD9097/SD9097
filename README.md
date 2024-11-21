@@ -90,7 +90,6 @@ Percentage: 79.9%
 
 ## 🌱 Currently Learning
 
-- Exploring more about Cloud Computing and DevOps practices.
 - Diving deeper into React.js and modern JavaScript frameworks.
 
 ---
