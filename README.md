@@ -1,4 +1,4 @@
-# S. Ghanekar  
+# 🧑‍💻 S. Ghanekar  
 **Junior Java Developer**  
 📍 **Location**: Kalyan (E), Maharashtra, India  
 📞 **Contact**: (+91) 9892695006  
@@ -6,90 +6,99 @@
 
 ---
 
-## About Me  
-Java Developer with 2+ years of experience in backend development, microservices, and API integration. Proficient in optimizing system performance and implementing secure authentication systems using **Spring Security**. Adept at developing scalable applications and working with **RESTful APIs**, **MySQL**, and **Spring Boot**. Always eager to expand knowledge in new technologies.
+## 👨‍💻 About Me  
+I am a passionate **Junior Java Developer** with **2+ years** of experience in **backend development**, **microservices**, and **API integration**. Skilled in creating scalable applications and optimizing system performance. Proficient in **Spring Boot**, **Spring Security**, and **MySQL**. I specialize in building secure and efficient backend systems using **RESTful APIs**.  
 
 ---
 
-## Education  
+## 🎓 Education  
 
-**IIT Madras (Online, India)**  
-_BSc in Programming and Data Science_ | Jan. 2024 - Present  
+### **IIT Madras (Online, India)**  
+🎓 _BSc in Programming and Data Science_ | **Jan. 2024 - Present**  
 
-**University of Mumbai, Mumbai, India**  
-_BE Mechanical Engineering_ | July 2014 - June 2018  
-_CGPA_: 8.19  
+### **University of Mumbai, Mumbai, India**  
+🎓 _BE Mechanical Engineering_ | **July 2014 - June 2018**  
+🌟 **CGPA**: 8.19  
 
-**Maharashtra Board, Mumbai, India**  
-_Higher Secondary_ | July 2012 - June 2014  
-_Percentage_: 70.89%  
+### **Maharashtra Board, Mumbai, India**  
+🎓 _Higher Secondary_ | **July 2012 - June 2014**  
+📊 **Percentage**: 70.89%  
 
-_Secondary_ | July 2012  
-_Percentage_: 79.9%
-
----
-
-## Experience  
-
-### BDx India Pvt Ltd, Mumbai  
-**Junior Java Developer** | July 2022 - Present  
-- **360View**: Built a microservice-based inventory system, improving performance by 12%.  
-- **TimeSheet**: Created an application for tracking work hours with role-based access, integrating Microsoft SSO login.  
-- **SoftConnect**: Developed an inventory management system and upgraded from Java 8 to Java 11, boosting performance by 20%.
-
-**Technologies**: Java 17/11, Spring Boot, Spring JPA, Spring Security, MySQL, Microservices, RESTful APIs, JSP, JavaScript
-
-### Alfa Labs, Mumbai  
-**Software Tester** | Aug. 2021 - June 2022  
-- Conducted functional testing for HDFC apps, improving deployment speed by 10%.  
-- Prepared test cases and business requirements documentation for clearer communication.
-
-### RTU Technologies Pvt Ltd, Mumbai  
-**Trainee Design Engineer** | Sept. 2020 - Mar. 2021  
-- Designed machine layouts using AutoCAD, enhancing performance by 15%.
-
-### Spark Minda Pvt Ltd, Mumbai  
-**Trainee Design and Prototype Engineer** | Jan. 2019 - Dec. 2019  
-- Created technical drawings for electrical harnesses, reducing prototyping errors by 20%.
+🎓 _Secondary_ | **July 2012**  
+📊 **Percentage**: 79.9%
 
 ---
 
-## Skills  
+## 💼 Experience  
 
-- **Programming**: Java, Python, JavaScript  
-- **Frameworks**: Spring Boot, Spring JPA, Spring Security, React JS  
-- **Databases**: MySQL  
-- **Tools**: JUnit, Mockito  
-- **Other**: Microservices, RESTful APIs, Cloud Services (if applicable)  
-- **Soft Skills**: Problem-solving, Time Management, Team Collaboration  
+### **BDx India Pvt Ltd, Mumbai**  
+**Junior Java Developer** | _July 2022 - Present_  
+- **360View**: Developed a microservice-based inventory system, boosting performance by **12%**.  
+- **TimeSheet**: Built an employee work hour tracker with **role-based access** and **Microsoft SSO login**.  
+- **SoftConnect**: Enhanced a cross-connect management system, upgraded from **Java 8 to Java 11**, improving performance by **20%**.
 
----
+**Technologies**:  
+🛠 **Java 17/11**, **Spring Boot**, **Spring JPA**, **Spring Security**, **MySQL**, **Microservices**, **RESTful APIs**, **JSP**, **JavaScript**  
 
-## Projects  
+### **Alfa Labs, Mumbai**  
+**Software Tester** | _Aug. 2021 - June 2022_  
+- Conducted **functional testing** for HDFC apps, improving deployment speed by **10%**.  
+- Prepared **Business Requirement Specifications (BRS)** and test cases for clear team communication.
 
-- **360View**: Backend services for real-time inventory tracking.  
-- **TimeSheet**: Employee work hour tracking with secure salary encryption.  
-- **SoftConnect**: Cross-connect management system with bulk upload and QR code scanning.
+### **RTU Technologies Pvt Ltd, Mumbai**  
+**Trainee Design Engineer** | _Sept. 2020 - Mar. 2021_  
+- Designed **machine layouts** in **AutoCAD** to improve performance by **15%**.
 
----
-
-## Extracurricular  
-
-- **Enduro Student India** | 2016 - 2018: Competed in endurance racing, showcasing technical skills and teamwork.  
-- **College Olympiad** | 2011: Secured 1st rank, demonstrating strong analytical abilities.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghanekarsubodh&show_icons=true&count_private=true)
+### **Spark Minda Pvt Ltd, Mumbai**  
+**Trainee Design and Prototype Engineer** | _Jan. 2019 - Dec. 2019_  
+- Created **technical drawings** for electrical harnesses, reducing prototyping errors by **20%**.
 
 ---
 
-## Let's Connect!  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/subodh-ghanekar) or [GitHub](https://github.com/SD9097).  
-Always open to new collaborations, discussions, or opportunities in software development.
+## 💡 Skills  
+
+**Programming Languages**:  
+- **Java**  
+- **Python**  
+- **JavaScript**  
+
+**Frameworks & Tools**:  
+- **Spring Boot**, **Spring JPA**, **Spring Security**, **React JS**  
+- **MySQL**, **JUnit**, **Mockito**  
+
+**Other**:  
+- **Microservices**, **RESTful APIs**, **Cloud Services (if applicable)**  
+- **Soft Skills**: Problem-solving, Team Collaboration, Time Management  
 
 ---
 
-_“Passionate about writing clean, scalable, and efficient code.”_
+## 🔧 Projects  
+
+- **360View**: Backend services for **real-time inventory tracking**.  
+- **TimeSheet**: Employee work hour tracking with **role-based access** and **salary encryption**.  
+- **SoftConnect**: Cross-connect management system with **bulk upload** and **QR code scanning**.
+
+---
+
+## 🏅 Extracurricular  
+
+### **Enduro Student India, India**  
+**Participant** | _2016 - 2018_  
+🏎 Participated in an endurance racing competition, showcasing technical and teamwork skills.  
+
+### **College Olympiad, India**  
+**1st Rank Holder** | _2011_  
+🏅 Awarded **1st rank** for exceptional problem-solving skills.
+
+---
+
+## 📫 Let's Connect!  
+
+- [LinkedIn](https://www.linkedin.com/in/subodh-ghanekar)  
+- [GitHub](https://github.com/SD9097)  
+
+Feel free to reach out for any collaboration, feedback, or just a friendly chat about technology.  
+
+---
+
+> “**Clean, scalable, and efficient code is my passion.**”
