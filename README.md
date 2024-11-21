@@ -94,8 +94,11 @@ I am a passionate **Junior Java Developer** with **2+ years** of experience in *
 
 ## 📫 Let's Connect!  
 
-- [LinkedIn](https://www.linkedin.com/in/subodh-ghanekar)  
-- [GitHub](https://github.com/SD9097)  
+## 📫 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subodh-ghanekar)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SD9097)  
+
 
 Feel free to reach out for any collaboration, feedback, or just a friendly chat about technology.  
 
