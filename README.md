@@ -1,5 +1,5 @@
 # 🧑‍💻Subodh S. Ghanekar  
-**Junior Java Developer**  
+**Software Development Engineer 1**  
 📍 **Location**: Kalyan (E), Maharashtra, India  
 📞 **Contact**: (+91) 9892695006  
 📧 **Email**: [ghanekarsubodh321@gmail.com](mailto:ghanekarsubodh321@gmail.com)  
